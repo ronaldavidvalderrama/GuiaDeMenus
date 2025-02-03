@@ -10,3 +10,10 @@ Comida francesa es una comida tradicional que se ha popularizado en España desd
 - Croissant
 - Pain au chocolat
 - Tarte Tatin
+
+## bebidads principales
+
+- Whiskey
+- Tequila
+- Cognac
+- Wine
