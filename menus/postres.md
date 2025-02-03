@@ -12,3 +12,14 @@ Los postres pueden tener diferentes texturas y temperaturas, y pueden ser prepar
 - Postre de galletas
 - Postre de cremas
 - Postre de pasteles
+    
+## bebidads principales
+
+- Café
+- Vinos espumosos.
+- Vinos secos.
+- Vino blanco.
+- Martini de menta.
+- Cocteles de autor.
+- Digestivos a la medida.
+- Agua mineral.
