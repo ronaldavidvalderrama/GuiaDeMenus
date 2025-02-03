@@ -12,3 +12,10 @@ comida china es una explosión de sabores y texturas, combinando ingredientes fr
 - Wontons
 - Dim sum
 
+## bebidads principales
+
+- sake
+- Wine
+- Whiskey
+- Tequila
+
