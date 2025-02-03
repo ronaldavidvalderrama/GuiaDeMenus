@@ -10,3 +10,10 @@ La comida japonesa es conocida por su simplicidad, delicadeza y armonía en los 
 - Ramen
 - Tempura
 - Yakitori
+
+## bebidads principales
+
+- Sake
+- Tequila
+- Whiskey
+- Wine
