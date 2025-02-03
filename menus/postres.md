@@ -23,3 +23,19 @@ Los postres pueden tener diferentes texturas y temperaturas, y pueden ser prepar
 - Cocteles de autor.
 - Digestivos a la medida.
 - Agua mineral.
+
+## consejos y recomendaciones
+
+Para comer postres, puedes considerar lo siguiente:
+- Elegir una porción pequeña
+Los postres tienen muchos carbohidratos, por lo que es importante que la porción sea pequeña. 
+- Saborear cada bocado
+Disfrutar de cada bocado, especialmente si el postre es pesado o empalagoso. 
+- Comer despacio
+Comer a un ritmo que permita alcanzar la sensación de saciedad, que se produce a los 20 minutos de empezar a comer. 
+- Elegir ingredientes saludables
+Utilizar aceite de oliva, frutas, endulzantes naturales como la miel o el azúcar moreno, y cereales integrales. 
+- Reemplazar el postre por otro carbohidrato
+Si el postre es parte de una comida, puedes sustituirlo por otro carbohidrato. 
+- Evitar la adicción al azúcar
+Si el postre es una forma de compensar emociones, es importante trabajar en la adicción al azúcar. 
