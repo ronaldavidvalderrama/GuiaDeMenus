@@ -10,3 +10,10 @@ La comida mediterránea es conocida por su sabor y textura, y se enfoca en ingre
 - Tortilla de patatas
 - Ensalada de verduras
 - Ensalada de pollo
+
+## bebidads principales
+
+- Vino
+- Tequila
+- Whiskey
+- Wine
