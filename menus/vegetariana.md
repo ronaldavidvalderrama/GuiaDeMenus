@@ -21,3 +21,10 @@ La comida vegetariana es un tipo de alimentación que se basa en el consumo de a
 - SALSA DE VINO. ...
 - SALSA DE VINO CON FRUTAS.
 - SALSA DE VINO CON PORRIDGE.
+
+## consejos y recomendaciones
+
+- Comer varias vegetales en la comida vegetariana.
+- Evitar la adicción al aceite de oliva.
+- Evitar la adicción al aceite de coco.
+- Evitar la adicción al aceite de maíz.
