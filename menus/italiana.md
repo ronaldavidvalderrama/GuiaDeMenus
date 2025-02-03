@@ -11,3 +11,10 @@ La comida italiana es famosa por su sencillez, frescura y el uso de ingredientes
 - Lasagna
 - Risotto
 
+## bebidads principales
+
+- Birra
+- Vino
+- Tequila
+- Whiskey
+
