@@ -19,3 +19,10 @@ comida china es una explosión de sabores y texturas, combinando ingredientes fr
 - Whiskey
 - Tequila
 
+## consejos y recomendaciones
+
+- Comida china es una delicia que se puede disfrutar en cualquier momento del año.
+- La comida china es una experiencia culinaria, no una comida rápida 
+- la comida china es muy rica en sabores y texturas, por lo que es importante tener una variedad de opciones para satisfacer las necesidades de cada persona.
+- La comida china es buena acompañada de bebidas, como el sake, el tequila, el whiskey, etc.
+
