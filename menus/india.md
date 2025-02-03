@@ -10,3 +10,11 @@ La comida india es una de las más variadas y sabrosas del mundo, con una incre�
 - El garam
 - El vindaloo 
 - El korma
+
+## bebidads principales
+
+- el té
+- el lassi
+- el masala chai
+- el nimbu pani
+
