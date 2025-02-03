@@ -10,3 +10,10 @@ La comida mexicana es una expresión cultural que se caracteriza por su diversid
 - Mole
 - Pozole
 - Enchiladas
+
+## bebidads principales
+
+- Tequila
+- Agua de horchata
+- Aguas frescas
+- Café
