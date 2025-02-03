@@ -18,3 +18,10 @@ Sumérgete en una experiencia gastronómica única con nuestra selección de car
 - Vino tinto
 - Cerveza
 
+## consejos y recomendaciones
+
+- Asegúrate de tener una buena cantidad de agua para comer tus platillos.
+- Si prefieres, puedes elegir una bebida de cerveza para acompañar tus platillos.
+- Si tienes un gusto más fuerte, puedes optar por una bebida de vino tinto o blanco.
+- Recuerda que la carne de cerdo asada es una opción especialmente deliciosa y sabrosa.
+
