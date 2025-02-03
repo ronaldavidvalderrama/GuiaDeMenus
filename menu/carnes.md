@@ -11,3 +11,10 @@ Sumérgete en una experiencia gastronómica única con nuestra selección de car
 - Carne de pollo
 - Carne de cerdo asada
 
+## bebidas recomendadas
+
+- Agua
+- Vino blanco
+- Vino tinto
+- Cerveza
+
